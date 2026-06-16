@@ -1,2 +1,25 @@
-# a1e5e2d8-esports-team-management-sow-an
-Fill-in-the-blank statements of work, project scopes, and deliverable checklists. Prevent scope creep with airtight project documentation.
+# Esports Team Management SOW and Scope Document Generator
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w9ATeTt4sc9JKgUcd0p0f)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w9ATeTt4sc9JKgUcd0p0f)
+
